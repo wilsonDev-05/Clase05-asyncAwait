@@ -1,0 +1,18 @@
+[
+  {
+    "title": "producto1",
+    "desc": "lorem lorem",
+    "price": 242,
+    "img": "img not found",
+    "code": "50215eec-e9e5-4de2-a7f5-5b93e6dfbf8a",
+    "stock": 2
+  }
+]  {
+    "title": "producto2",
+    "desc": "lorem lorem",
+    "price": 120,
+    "img": "img not found",
+    "code": "3bd1ed5c-9aeb-4fc1-811b-b45fb9add327",
+    "stock": 2
+  }
+]

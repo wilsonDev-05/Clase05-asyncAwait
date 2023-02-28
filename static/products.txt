@@ -1,0 +1,26 @@
+[
+  {
+    "title": "producto1",
+    "desc": "lorem lorem",
+    "price": 200,
+    "img": "img not found",
+    "code": "609e74d5-ad96-4d32-a10d-9ca0c78697d7",
+    "stock": 2
+  },
+  {
+    "title": "producto3",
+    "desc": "lorem lorem",
+    "price": 484,
+    "img": "img not found",
+    "code": "er3423re-9aeb-efde-811b-we3rt4ws2334",
+    "stock": 10
+  }
+] {
+    "title": "producto3",
+    "desc": "lorem lorem",
+    "price": 484,
+    "img": "img not found",
+    "code": "er3423re-9aeb-efde-811b-we3rt4ws2334",
+    "stock": 10
+  }
+]

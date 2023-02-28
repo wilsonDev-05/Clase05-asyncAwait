@@ -1,0 +1,30 @@
+[
+  {
+    "wilson": "232123124"
+  },
+  {
+    "walter": "232123124"
+  },
+  {
+    "watson": "232123124"
+  },
+  {
+    "fatiga": "342132352"
+  },
+  {
+    "fatiga": "342132352"
+  },
+  {
+    "fatiga": "342132352"
+  }
+]
+[
+    {
+        title: "producto prueba 1"
+        desc: "descripciondel producto lorem lorem lorem"
+        price: 200
+        img: "img not found."
+        code: 0
+        stock: 10
+    }
+]
